@@ -1,7 +1,7 @@
 
 # Vision produit
 
-Probitas évolue vers une plateforme de consultation et d’accompagnement sur les dossiers clients.
+Probitas test évolue vers une plateforme de consultation et d’accompagnement sur les dossiers clients.
 
 La nouvelle version repose sur trois profils :
 
