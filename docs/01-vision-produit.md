@@ -1,4 +1,3 @@
-
 # Vision produit
 
 Probitas test évolue vers une plateforme de consultation et d’accompagnement sur les dossiers clients.
