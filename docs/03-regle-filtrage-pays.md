@@ -1,4 +1,3 @@
-
 # Règle de filtrage par pays
 
 ## Données nécessaires
